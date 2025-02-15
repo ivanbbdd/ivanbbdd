@@ -1,4 +1,4 @@
-![Banner](https://github.com/ivanbbdd/ivanbbdd/blob/main/banner1.png)
+![Banner](https://github.com/ivanbbdd/ivanbbdd/blob/main/banner11.png)
 
 # 💫 About Me:
 Hello and welcome to my GitHub repository! 👋<br><br>Let me tell you a little about myself: I’m a Junior Data Scientist passionate about my work and everything related to data analysis and science. I’ve also had the opportunity to work as a Full Stack developer, which has given me a broader perspective on technology.<br><br>One of my most notable achievements was contributing to a project for the Government of Spain, an enriching experience that helped me enhance my skills and grow professionally.<br><br>I’m constantly learning and always eager to improve, so if you have any suggestions, questions, or just want to chat, feel free to reach out. Thanks for visiting my repository! 😊<br><br>Best regards! 👾
